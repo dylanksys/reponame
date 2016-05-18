@@ -1,0 +1,12 @@
+{
+  "name": "theapp",
+  "description": "nicerepodawg",
+  "author": "dylanksys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanksys/reponame"
+  },
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
